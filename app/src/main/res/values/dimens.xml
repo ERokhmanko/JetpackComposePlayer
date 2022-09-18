@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="margin_top_text_header">20dp</dimen>
+    <dimen name="margin_start_text_header">15dp</dimen>
+    <dimen name="margin_top_text_to_text">10dp</dimen>
+    <dimen name="prev_margin_start">75dp</dimen>
+    <dimen name="next_margin_start">125dp</dimen>
+    <dimen name="seekBar_marginStart">180dp</dimen>
+    <dimen name="seekBar_margin">16dp</dimen>
+    <dimen name="list_margin">250dp</dimen>
+    <dimen name="menu_width">37dp</dimen>
+    <dimen name="menu_height">50dp</dimen>
+</resources>

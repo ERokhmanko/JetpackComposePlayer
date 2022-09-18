@@ -10,4 +10,4 @@
 Kotlin, JetpackCompose, MVVM, Retrofit, MediaPlayer
 
 ## Результат:
-[![Результат](https://github.com/ERokhmanko/JetpackComposePlayer/commit/65250f336575228dd3c176fb6445296ba7302a73)]
+[![Результат](https://raw.githubusercontent.com/ERokhmanko/JetpackComposePlayer/65250f336575228dd3c176fb6445296ba7302a73/playerCompose.jpg)]
